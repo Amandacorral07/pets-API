@@ -1,9 +1,6 @@
-# express-auth-template
+# Pets-API 
 
-A template for starting projects with `express` as an API. Includes
-authentication and common middlewares.
-
-## Installation
+<!-- ## Installation
 
 1. [Download](../../archive/master.zip) this template.
 1. Move the .zip file to your `sei/projects/` directory and Unzip it (creating a
@@ -15,7 +12,7 @@ authentication and common middlewares.
 1. Replace all instances of `'express-auth-template'` with your app name.
 1. Install dependencies with `npm install`.
 1. Ensure that you have `nodemon` installed by running `npm install -g nodemon`.
-2. Once everything is working, make an initial commit.
+2. Once everything is working, make an initial commit. -->
 
 ## Structure
 
